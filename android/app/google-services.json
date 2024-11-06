@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765320991977",
+    "project_id": "round2todo",
+    "storage_bucket": "round2todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765320991977:android:680cc42f4366b068880c78",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwuWoFQBQ1JPtoNDxfj1P3bf1VLNh8Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

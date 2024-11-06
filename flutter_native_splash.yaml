@@ -1,0 +1,25 @@
+flutter_native_splash:
+
+
+  color_dark: "#1E1E1E"
+
+
+
+  # The branding property allows you to specify an image used as branding in the splash screen.
+
+  #background_image_dark: "assets/dark-background.png"
+  image_dark: assets/images/logo.png
+  color: "#DFECDB"
+  image: assets/images/logo.png
+
+
+android_12:
+
+  image: assets/images/andriod12splash.png
+
+
+  color: "#DFECDB"
+
+
+  image_dark: assets/images/andriod12splash.png
+  color_dark: "#1E1E1E"
